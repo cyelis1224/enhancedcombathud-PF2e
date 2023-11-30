@@ -1,5 +1,5 @@
-# Argon - Combat HUD (DND5E)
-DnD5e - Fifth Edition System Argon integration
+# Argon - Combat HUD (PF2e)
+Pathfinder 2nd edition - System Argon integration
 
 ## Before opening an issue read [THIS](https://github.com/theripper93/Levels/blob/v9/ISSUES.md)
 

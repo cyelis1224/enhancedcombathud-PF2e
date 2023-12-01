@@ -4,7 +4,7 @@ const ECHItems = {};
 
 export function initConfig() {
     Hooks.on("argonInit", (CoreHUD) => {
-        if (game.system.id !== "dnd5e") return;
+        if (game.system.id !== "pf2e") return;
         registerItems();
         const ARGON = CoreHUD.ARGON;
 
